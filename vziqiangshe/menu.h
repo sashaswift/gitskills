@@ -1,0 +1,27 @@
+#ifndef MENU_H
+#define MENU_H
+void add();//添加卡函数
+void query();//查询卡函数
+void annul();//注销卡函数
+void logon();//上机函数
+void settle();//下机函数
+void addmoney();//充值函数
+void rate();//查询统计函数
+void refundmoney();//退费函数
+void exitApp();//退出菜单函数
+void exitApp2();
+void addManager();//添加管理员信息
+void loginManager();//登录管理员信息
+void changeManager();//更改管理员权限
+void deleteMangager();//删除管理员信息
+void PowerForManager1();//管理菜单
+void PowerForManager2();
+void PowerForManager3();
+void PowerForManager4();
+void addBillingStandard();//增加计费标准
+void queryBillingStandard();//查询计费标准
+void changeBillingStandard();//更改计费标准
+void queryBillingRecord();//消费记录查询
+void AllOfincome();//总营业额
+void incomeOfMonth();//月营业额
+#endif // MENU_H

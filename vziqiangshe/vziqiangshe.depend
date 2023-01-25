@@ -1,0 +1,120 @@
+# depslib dependency file v1.0
+1674131440 source:c:\users\sasha swift\documents\vziqiangshe\billing_files.c
+	"billing_files.h"
+	"billing_service.h"
+
+1673965298 source:c:\users\sasha swift\documents\vziqiangshe\billing_service.c
+	"billing_service.h"
+	"billing_files.h"
+
+1674303133 source:c:\users\sasha swift\documents\vziqiangshe\card_files.c
+	"card_files.h"
+	"card_service.h"
+	<ctype.h>
+	<stdlib.h>
+
+1672918216 source:c:\users\sasha swift\documents\vziqiangshe\global.c
+
+1674195857 source:c:\users\sasha swift\documents\vziqiangshe\main.c
+	"menu.h"
+	"model.h"
+	"tool.h"
+
+1674137052 c:\users\sasha swift\documents\vziqiangshe\menu.h
+
+1673950251 c:\users\sasha swift\documents\vziqiangshe\model.h
+	<string.h>
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	"global.h"
+
+1672918183 source:c:\users\sasha swift\documents\vziqiangshe\model.c
+
+1673964392 source:c:\users\sasha swift\documents\vziqiangshe\rate_files.c
+	"rate_files.h"
+	"rate_service.h"
+
+1673965000 source:c:\users\sasha swift\documents\vziqiangshe\rate_service.c
+	"rate_service.h"
+	"rate_files.h"
+
+1674010183 source:c:\users\sasha swift\documents\vziqiangshe\record_files.c
+	"record_files.h"
+	"record_service.h"
+
+1674195857 source:c:\users\sasha swift\documents\vziqiangshe\record_service.c
+	"record_service.h"
+	"record_files.h"
+
+1674219139 source:c:\users\sasha swift\documents\vziqiangshe\sevice.c
+	"sevice.h"
+	"card_service.h"
+	"card_files.h"
+	"billing_service.h"
+	"billing_files.h"
+	"money.h"
+	"tool.h"
+	"record_files.h"
+	"record_service.h"
+	"rate_files.h"
+	"rate_service.h"
+
+1674223941 source:c:\users\sasha swift\documents\vziqiangshe\tool.c
+	"tool.h"
+
+1673965298 source:c:\users\sasha swift\documents\vziqiangshe\card_service.c
+	"card_service.h"
+	"card_files.h"
+	"billing_service.h"
+
+1673404430 c:\users\sasha swift\documents\vziqiangshe\card_service.h
+	"model.h"
+
+1674223887 source:c:\users\sasha swift\documents\vziqiangshe\menu.c
+	"card_service.h"
+	<stdio.h>
+	<time.h>
+	"menu.h"
+	"sevice.h"
+	"model.h"
+	"tool.h"
+
+1673161737 c:\users\sasha swift\documents\vziqiangshe\card_files.h
+	"card_service.h"
+
+1674223745 c:\users\sasha swift\documents\vziqiangshe\tool.h
+	<time.h>
+	<string.h>
+	"model.h"
+	<conio.h>
+
+1673772318 c:\users\sasha swift\documents\vziqiangshe\billing_service.h
+	"model.h"
+
+1674131440 c:\users\sasha swift\documents\vziqiangshe\billing_files.h
+	"model.h"
+
+1674195857 c:\users\sasha swift\documents\vziqiangshe\sevice.h
+	"model.h"
+
+1673697227 c:\users\sasha swift\documents\vziqiangshe\global.h
+
+1673682690 source:c:\users\sasha swift\documents\vziqiangshe\money.c
+	"money.h"
+
+1673682738 c:\users\sasha swift\documents\vziqiangshe\money.h
+	"model.h"
+
+1673965000 c:\users\sasha swift\documents\vziqiangshe\rate_service.h
+	"model.h"
+
+1673960534 c:\users\sasha swift\documents\vziqiangshe\rate_files.h
+	"model.h"
+
+1674008465 c:\users\sasha swift\documents\vziqiangshe\record_service.h
+	"model.h"
+
+1674008465 c:\users\sasha swift\documents\vziqiangshe\record_files.h
+	"model.h"
+
